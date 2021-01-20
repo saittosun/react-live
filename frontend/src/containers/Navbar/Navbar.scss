@@ -1,0 +1,14 @@
+.navbar-brand {
+    width: 6%;
+    cursor: pointer;
+}
+
+.bg-custom {
+    background-color: rgb(185, 135, 214);
+}
+
+@media (max-width: 992px) {
+    .navbar-brand {
+        width: 9%;
+    }
+}
